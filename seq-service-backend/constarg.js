@@ -1,0 +1,1 @@
+{ "seqs": [ [ { "op": "match", "action": "访问" }, { "op": "collect", "pos_range": "last-match-to-end", "cond": { "action": "访问" }, "prefix": "revisit_in_mon", "metric": { "stat_in_month_ranges": { "origin": "last-match", "type": "occur", "mode": "times", "ranges": [ [ 3, 3 ] ] } } } ] ] }

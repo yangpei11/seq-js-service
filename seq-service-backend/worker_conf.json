@@ -1,0 +1,8 @@
+{
+  "masterHostPort": "localhost:1234",
+  "workerPort":"4321",
+  "workerName":"worker1",
+  "processorNum":4,
+  "proxyAddress":"hd066:8445/gateway/eadhadoop/hdfs",
+  "tmpDir":"/tmp/seqjs-exec-svc"
+}
